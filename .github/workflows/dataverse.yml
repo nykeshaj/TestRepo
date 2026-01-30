@@ -13,6 +13,6 @@ jobs:
         with:
           DATAVERSE_TOKEN: ${{ secrets.DATAVERSE_TOKEN }}
           DATAVERSE_SERVER: https://dataverse.harvard.edu
-          DATAVERSE_DATASET_DOI: doi:10.7910/T0630D 
+          DATAVERSE_DATASET_DOI: 10.7910/DVN/T0630D
           # DELETE: True   # default True; see note below
           # PUBLISH: False # default False; see note below
